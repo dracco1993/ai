@@ -21,7 +21,7 @@ Expected setup: main session on Opus-class or better at high effort (your
 
 | Agent | Model : effort | Route here when the task… |
 |---|---|---|
-| `designer` | Fable : high | needs an architecture/data-model choice between approaches |
+| `designer` | Opus : high | needs an architecture/data-model choice between approaches |
 | `coder` | Sonnet : medium | requires reading code and making local decisions (features, refactors, migrations, tests, debugging) |
 | `mechanic` | Haiku : low | is fully specified — exact files, exact change (renames, boilerplate, doc/config edits) |
 | `reviewer` | Sonnet : high | is an adversarial diff review before the PR |
