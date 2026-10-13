@@ -7,7 +7,7 @@ description: >-
   trade-offs. It produces a design spec (an ADR-style writeup), not code. Hand it
   the problem, constraints, and any relevant existing files; it returns a
   concrete, reviewable plan the coder agent can implement.
-model: opum
+model: opus
 effort: high
 ---
 
